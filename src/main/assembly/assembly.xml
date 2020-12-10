@@ -9,7 +9,6 @@
         <fileSet>
             <directory>src/payloads</directory>
             <outputDirectory>payloads</outputDirectory>
-            <lineEnding>unix</lineEnding>
         </fileSet>
     </fileSets>
     <files>
